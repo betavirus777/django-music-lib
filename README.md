@@ -6,3 +6,5 @@ User can add albums and also search albums and songs.
 ![2018-10-30](https://user-images.githubusercontent.com/21220767/47698438-58715580-dc35-11e8-8d4d-21e36c145424.png)
 The admin can manage user ,giving them status and permissions.
 ![2018-10-30 1](https://user-images.githubusercontent.com/21220767/47699392-c0756b00-dc38-11e8-9173-8293ad8ed6a4.png)
+The admin can view albums,delete and add albums.
+![2018-10-30 2](https://user-images.githubusercontent.com/21220767/47699522-26fa8900-dc39-11e8-9922-4a9478c17572.png)
